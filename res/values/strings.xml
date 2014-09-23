@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">zoo</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="play">play</string>
+    <string name="eat">eat</string>
+    <string name="bath">bath</string>
+    <string name="game">game</string>
+    <string name="bath_button">bath</string>
+    <string name="eat_button">eat</string>
+    <string name="play_button">play</string>
+    <string name="restart_button">restart</string>
+    <string name="game_label">Alive:</string>
+    <string name="eat_label">Eat:</string>
+    <string name="bath_label">Bath:</string>
+    <string name="play_label">Play:</string>
+
+</resources>
